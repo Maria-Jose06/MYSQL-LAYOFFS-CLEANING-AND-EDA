@@ -6,3 +6,5 @@ Built staging tables and applied window functions for deduplication and integrit
 Conducted exploratory data analysis (EDA): layoffs by industry, country, company, and funding stage.
 
 Skills demonstrated: SQL, Data Cleaning, EDA, Window Functions
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
